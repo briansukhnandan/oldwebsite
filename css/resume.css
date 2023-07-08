@@ -1,168 +1,125 @@
 @font-face {
-    font-family: Gravity;
-    src: url(../public/fonts/Gravity.otf);
+  font-family: Gravity;
+  src: url(../public/fonts/Gravity.otf);
 }
   
 @font-face {
-font-family: Streamster;
-src: url(../public/fonts/Streamster.ttf);
+  font-family: Streamster;
+  src: url(../public/fonts/Streamster.ttf);
 }
 
 @font-face {
-font-family: Ubuntu;
-src: url(../public/fonts/Ubuntu-R.ttf);
+  font-family: Ubuntu;
+  src: url(../public/fonts/Ubuntu-R.ttf);
 }
 
 @font-face {
-font-family: Helvetica_Neue;
-src: url(../public/fonts/HelveticaNeue.ttf);
+  font-family: Helvetica_Neue;
+  src: url(../public/fonts/HelveticaNeue.ttf);
 }
 
 @font-face {
-font-family: Lucida_Grande;
-src: url(../public/fonts/LucidaGrande.ttf);
+  font-family: Lucida_Grande;
+  src: url(../public/fonts/LucidaGrande.ttf);
 }
 
 a {
-    color: #ff3cb1;
+  color: #ff3cb1;
 }
   
 a:hover {
-
-color: #b5297b;
-
+  color: #b5297b;
 }
 
 .navbar {
-    overflow: visible;
-    background-color: #333;
-    position: fixed; /* Set the navbar to fixed position */
-    top: 0; /* Position the navbar at the top of the page */
-    width: 100%; /* Full width */
-  }
+  overflow: visible;
+  background-color: #333;
+  position: fixed; /* Set the navbar to fixed position */
+  top: 0; /* Position the navbar at the top of the page */
+  width: 100%; /* Full width */
+}
 
 .whitebar a {
-
-color:white;
-
+  color:white;
 }
 
 
 title {
-
-font-size: 30px;
-
-
+  font-size: 30px;
 }
 
 h1 {
-
-font-family: Streamster;
-font-size: 64px;
-
+  font-family: Streamster;
+  font-size: 64px;
 }
 
 h2 {
-
-font-family: Gravity;
-font-size: 30px;
-
+  font-family: Gravity;
+  font-size: 30px;
 }
 
 h5 {
-
-font-family: Gravity;
-font-size: 20px;
-
+  font-family: Gravity;
+  font-size: 20px;
 }
 
 h6 {
-
-    font-family: Gravity;
-    font-size: 20px;
-    color: white;
-    
+  font-family: Gravity;
+  font-size: 20px;
+  color: white;
 }
 
 h3 {
-
-font-size: 42px;
-
-
+  font-size: 42px;
 }
 
 h4 {
-
-font-size: 30px;
-
-
+  font-size: 30px;
 }
 
-
 p2 {
-
-font-size:18px;
-color: black;
-
+  font-size:18px;
+  color: black;
 }
 
 .gravFont {
-
-font-family: Gravity;
-
+  font-family: Gravity;
 }
 
 .ubuntuFont {
-
-font-family: Ubuntu;
-
+  font-family: Ubuntu;
 }
 
 .helveticaneueFont {
-
-font-family: Helvetica_Neue;
-
+  font-family: Helvetica_Neue;
 }
 
 .lucidagrandeFont {
-
-font-family: Lucida_Grande;
-
+  font-family: Lucida_Grande;
 }
 
 .msg {
-
-font-family: ms_gothic;
-
+  font-family: ms_gothic;
 }
 
-.redir-text a{
-
-color: white;
-
-font-size: 20px;
-
-
+.redir-text a {
+  color: white;
+  font-size: 20px;
 }
 
 .typed-container {
-
-font-size: 30px;
-display: block;
-text-align: center;
-background-size: cover;
+  font-size: 30px;
+  display: block;
+  text-align: center;
+  background-size: cover;
 }
 
 .typed-container h2 {
-
-display: inline;
-
+  display: inline;
 }
 
 .paddedtext {
-
-padding-top: 200px;
-text-align: center;
-color: white;
-
+  padding-top: 200px;
+  text-align: center;
+  color: white;
 }
