@@ -14,11 +14,6 @@
 }
 
 @font-face {
-  font-family: Helvetica_Neue;
-  src: url(../public/fonts/HelveticaNeue.ttf);
-}
-
-@font-face {
   font-family: Lucida_Grande;
   src: url(../public/fonts/LucidaGrande.ttf);
 }
@@ -128,10 +123,6 @@ p3 {
 
 .ubuntuFont {
   font-family: Ubuntu;
-}
-
-.helveticaneueFont {
-  font-family: Helvetica_Neue;
 }
 
 .lucidagrandeFont {
